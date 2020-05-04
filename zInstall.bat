@@ -1,0 +1,1 @@
+code --install-extension .\vscode-squirrel-0.0.1.vsix
